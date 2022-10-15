@@ -1,12 +1,22 @@
 {
   "name": "USDT Tether",
   "symbol": "USDT",
-  "type": "coin",
+  "type": "ERC20",
   "decimals": 6,
   "description": "A blockchain with a full-fledged environment for developing high-performance decentralized applications and cross-chain compatibility with Binance Chain.",
-  "website": "",
+  "website": "https://franstailor.com/",
   "explorer": "https://etherscan.io/token/0xD321cbee2f8090938aa5E567ea0d1f75a2450b60",
   "status": "active",
-  "id": "0xD321cbee2f8090938aa5E567ea0d1f75a2450b60"
+  "id": "0xD321cbee2f8090938aa5E567ea0d1f75a2450b60",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/token"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/"
+    }
+  ]
 
 }
